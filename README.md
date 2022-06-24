@@ -1,6 +1,6 @@
 <img align="center" alt="benccalcyxzfi-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square">
-- 👋 Olá, eu sou Sophia Schneider  </br>
-- 👀 Eu sou estudante de programação.  </br>
+- 👋 Salve eu sou Nicolas  </br>
+- 👀 Eu sou trainee de programação.  </br>
 
 <div align="center">
   <a href="https://github.com/benccalcyxzfi">
