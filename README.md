@@ -1,7 +1,7 @@
 - 👋 Salve eu sou Nicolas Silva  </br>
 - 👀 Eu sou trainee de programação.  </br>
 
-<p style="font-size: 20px">
+<p align="center" style="font-size: 20px">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
