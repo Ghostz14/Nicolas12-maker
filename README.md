@@ -11,7 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=benccalcyxzfi&theme=dark">
   </div>
   <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=Nicolas12-maker&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=nicolas12-maker&theme=nord&column=7" >
 
 <div style="display: inline_block"><br>
    <img align="center" alt="benccalcyxzfi-html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
