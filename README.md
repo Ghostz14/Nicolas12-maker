@@ -2,7 +2,7 @@
 - 👀 Eu sou trainee de programação.  </br>
 
 <p align="center">
-  <img style="font-size: 40px" src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img style=": 40px" src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 <div align="center">
