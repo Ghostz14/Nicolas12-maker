@@ -1,9 +1,9 @@
 - 👋 Opa tudo certo? Eu sou Nicolas.  </br>
 - 👀 Eu sou trainee de programação.  </br>
 
- <p align="center" style="height: 1px">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+// <p align="center" style="height: 1px">
+//  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+// </p>
 
 <div align="center">
   <a href="https://github.com/nicolas12-maker">
