@@ -19,10 +19,6 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://www.deezer.com/br/playlist/10137123722) <br>
 
 
-![Twitter](https://twitter.com/Gh0stz131-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-</div>
-
-
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
