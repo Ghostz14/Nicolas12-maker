@@ -19,9 +19,7 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://www.deezer.com/br/playlist/10137123722) <br>
 
 
-![Totals Hits](https://www.deezer.com/br/profile/4882076502-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+![Twitter](https://twitter.com/Gh0stz131-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
 
 
