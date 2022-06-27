@@ -17,7 +17,7 @@
   <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=nicolas12-maker&theme=nord&column=7" >
 
-// tools_I_use organized
+<div>
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
@@ -28,3 +28,4 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
+  </div>
