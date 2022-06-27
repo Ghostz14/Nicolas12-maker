@@ -17,8 +17,7 @@
   <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=nicolas12-maker&theme=nord&column=7" >
 
-<div style="display: inline_block"><br>
-   // tools_I_use organized
+// tools_I_use organized
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
@@ -29,5 +28,3 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
-  <img align="center" alt="Visual Basic 6" height="28" width="56" src="https://user-images.githubusercontent.com/88748637/150884149-e5d5cfce-f07c-4504-97fa-a00fd5741ad4.png">
-</div>
