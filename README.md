@@ -1,14 +1,14 @@
 - 👋 Salve eu sou Nicolas Silva  </br>
 - 👀 Eu sou trainee de programação.  </br>
 
-<p align="center" style="height: 199px">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
-
 <div align="center">
   <a href="https://github.com/nicolas12-maker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas12-maker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas12-maker&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+    
+<p align="center" style="height: 199px">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 
 </div>
   <div align="center">
