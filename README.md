@@ -16,7 +16,7 @@
   <p><strong>Student in the Morning and Coder in the Night
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://www.deezer.com/br/playlist/10137123722) <br>
+[![Dezzer ](https://www.deezer.com/br/playlist/10137123722)](https://www.deezer.com/br/playlist/10137123722) <br>
 
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
