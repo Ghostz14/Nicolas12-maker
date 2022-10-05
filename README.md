@@ -11,7 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas12-maker&theme=dark">
   </div>
   <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=nicolas12-maker&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=benccalcyxzfi&theme=nord&column=7" >
   
   <p><strong>Student in the Morning and Coder in the Night
 <br><br> Vibing to : 🎧  </strong></p>
