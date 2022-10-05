@@ -5,6 +5,7 @@
   <a href="https://github.com/nicolas12-maker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas12-maker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas12-maker&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 
 </div>
   <div align="center">
