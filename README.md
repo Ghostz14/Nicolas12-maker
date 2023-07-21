@@ -1,5 +1,4 @@
 - 🤙 Opa! eu sou o Nicolas.  </br>
-- 💻 Eu sou develop.  </br>
 
 <div align="center">
   <a href="https://github.com/nicolas12-maker">
