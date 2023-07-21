@@ -1,9 +1,4 @@
 - 🤙 Opa! eu sou o Nicolas.  </br><br>
-
-<div align="center">
-  <a href="https://github.com/nicolas12-maker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas12-maker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas12-maker&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
  
 </div>
   <div align="center">
