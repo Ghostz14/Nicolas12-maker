@@ -1,4 +1,4 @@
-- 🤙 Opa! eu sou o Nicolas.  </br>
+- 🤙 Opa! eu sou o Nicolas.  </br><br>
 
 <div align="center">
   <a href="https://github.com/nicolas12-maker">
